@@ -1,0 +1,12 @@
+name: Spectrograms
+channels:
+  - defaults
+dependencies:
+  - lalsuite
+  - python=3
+  - gwpy
+  - scipy
+  - jupyterlab
+  - matplotlib
+  - astropy
+prefix: /Users/wfarr/miniconda3/envs/Spectrograms
